@@ -1,2 +1,2 @@
-# captio-releases
-Captio - releases
+# finishot-releases
+Finishot - releases
